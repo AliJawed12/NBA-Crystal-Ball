@@ -1,6 +1,4 @@
 /*
-CPS 240 Group Project
-Ali Jawed, Brevin Ford, Justin Deines, Owen Robinson
 
 Team File
  */
